@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #b483e2;
+  padding: 30px 10px 30px 10px;
+}
+
+.my-portfolio-header {
+  text-decoration: none;
+  color: black;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+}
